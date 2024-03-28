@@ -13,8 +13,6 @@ namespace AUA.ProjectName.Reports.Reports.UserReports
 
         public string LastName { get; set; }
 
-        public string UserName { get; set; }
-
         public string FullName => FirstName + " " + LastName;
 
         public UserContact UserContact { get; set; }
