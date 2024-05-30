@@ -1,3 +1,7 @@
+# This is a Simple sample of the AUA framework 
+<b style=" color: red;"> We can enhance your code, design, business, architecture, framework, and production process, resulting in a polished product that exudes cleanliness</b>
+
+
 # AUA framework .Net 8 (CQS/CQRS-Domain-Driven Design(DDD))
 AUA framework .Net 8 (CQS/CQRS)
 
@@ -33,11 +37,15 @@ Otherwise, it becomes very difficult to manage different transaction states such
 This problem is well solved in the AUA Framework.
 
 
-You can see the web site for more details. <br/>
+You can see the website for more details. <br/>
 Site : <br/>
 https://auaframework.com/Document/Introduction
 
 Video : <br/>
 https://auaframework.com/Document/VideoTutorial
 
+LinkedIn : <br/>
+https://www.linkedin.com/in/rahimlotfi
+<br/>
 # Documentation is being completed...
+<br/>
